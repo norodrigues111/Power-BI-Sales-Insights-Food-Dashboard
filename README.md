@@ -50,9 +50,9 @@ Welcome to the Power BI Sales Insights Food Dashboard repository! This project s
 
 2. **Alternative Options:**
 
-    a. **PDF Version:** If you prefer not to download Power BI, you can view a static version of the dashboard by opening the [PDF file](link-to-your-pdf-file.pdf) provided in this repository.
+    a. **PDF Version:** If you prefer not to download Power BI, you can view a static version of the dashboard by opening the [PDF file]([link-to-your-pdf-file.pdf](https://github.com/norodrigues111/Power-BI-Sales-Insights-Food-Dashboard/blob/main/Sales%20Dashboard%20Power%20BI.pdf)) provided in this repository.
 
-    b. **Video Demo:** For a more interactive experience, check out the [video demo](link-to-your-video-demo.mp4) showcasing the dashboard's interactivity. This is especially useful if you want a quick overview without installing any software.
+    b. **Video Demo:** For a more interactive experience, check out the [video demo]([link-to-your-video-demo.mp4](https://github.com/norodrigues111/Power-BI-Sales-Insights-Food-Dashboard/blob/main/Sales%20Dashboard%20Power%20BI%20Video.mp4)) showcasing the dashboard's interactivity. This is especially useful if you want a quick overview without installing any software.
 
 ## Notes
 
